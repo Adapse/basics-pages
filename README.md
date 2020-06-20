@@ -1,2 +1,4 @@
 # basics-pages
-This module manage a basics page with many formats
+Este proyecto gestiona las páginas básicas con distintos formatos
+- - - -
+This proyect manage a basics page with many formats
